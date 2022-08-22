@@ -1,4 +1,150 @@
-.class{
-font-size:10rem;
+*{
+margin-top:0;
 }
-.
+
+.container{
+max-width: 1219px;
+margin:auto;
+font-family: Arial;
+}
+
+.first{
+background-color: #007765;
+}
+.logotype{
+width: 184px;
+height:45px;
+padding-top:10px;
+padding-bottom:18px;
+}
+
+.first-text{
+color:white;
+padding:15px;
+margin-left:60px;
+font-family: Arial;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display:flex;
+/*display:flex;*/
+/*text-align:right;*/
+}
+
+.empty_space{
+padding-left:510px;
+text-align:right;
+text-size:40px;
+margin-right:0px;
+padding-top:25px;
+}
+
+a{
+color:white;
+text-decoration: None;
+}
+/* ________________________________________second_ BLPCK _______________________________________________________________________*/
+.examp{
+text-align:right;
+padding-right:50px;
+}
+
+.second{
+  background: url("image122.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1219px;
+height: 403px;
+left: 0px;
+top: 84px;
+color:white;
+}
+.second_text{
+  text-align:center;
+  font-size:72px;
+  padding-top:160px;
+}
+/*_----------------------------------------------THIRD ________----------------------------------------*/
+
+.third{
+  background: url("The Problem.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 719px;
+left: 0px;
+top: 487px;
+}
+h2{
+color:#007765;
+font-size: 64px;
+text-align:center;
+Weight: 500
+Line height : 75px;
+padding-top:48px;
+}
+.third_text{
+font:Roboto;
+padding-top:16px;
+text-align:left;
+padding-left: 55px;
+padding-right:55px;
+font-size:32px;
+font-weight:400;
+line-height:37.5px;
+padding-bottom:92px;
+}
+/*///////////////////////////forth////////////////////////////////////////////////////////*/
+
+.fourth{
+  background: url("image.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 483px;
+left: 0px;
+top: 1206px;
+}
+.fourth_text{
+font:Roboto;
+font-style:italic;
+padding-top:143px;
+text-align:center;
+font-size:48px;
+font-weight:800;
+line-height:56.25px;
+padding-bottom:92px;
+padding-left:140px;
+padding-right:140px;
+color:white;
+}
+/*)))))))))))))))))))))))))))))))))FIFTH ))))))))))))))))))))))))))))))))))))*/
+.fifth{
+  background: url("bg123.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 845px;
+}
+
+
+
+/*+++++++++++++++++++++++++++++ S I S T H +++++++++++++++++++++++++++++++++++++++++++++*/
+.sixth{
+ background-color: #333333;
+  height: 146px;
+}
+.sixth_text{
+font:Roboto;
+padding-top:48px;
+text-align:center;
+font-size:18px;
+font-weight:400;
+line-height:21px;
+padding-bottom:64px;
+padding-left:335px;
+padding-right:335px;
+color:white;
+}
