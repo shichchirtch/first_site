@@ -92,7 +92,7 @@ font-size: 64px;
 text-align:center;
 Weight: 500;
 Line-height : 75px;
-padding-top:48px;
+padding-top:28px;
 }
 .third_text{
 font:Roboto;
@@ -171,12 +171,14 @@ color:white;
   flex-flow: column wrap;
   align-items: center; /*Выравнивает флекс-элементы внутри контейнера в перпендикулярном направлении*/
   padding-bottom: 55px; /*Устанавливает значение поля от нижнего края содержимого элемента*/
+  margin-bottom:-50px;
 }
 .name {
   font-weight: 700; /*Устанавливает насыщенность шрифта*/
   font-size: 24px; /*Определяет размер шрифта элемента*/
-  line-height: 28px; /*Задаёт высоту строки текста*/
+  line-height: 0px; /*Задаёт высоту строки текста*/
   color: #007765; /*Определяет цвет текста элемента*/
+
 }
 .figure {
   margin: 0; /*Расстояние от края элемента до края другог элемента*/
