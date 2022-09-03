@@ -209,21 +209,19 @@ color:white;
 }
 
 /*+++++++++++++++++++++++++++++ S I S T H +++++++++++++++++++++++++++++++++++++++++++++*/
-.sixth{
+footer {
  background-color: #333333;
-  padding-top: 48px; /*Устанавливает значение поля от верхнего края содержимого элемента*/
-  padding-bottom: 64px;
-  padding-left: 55px ;
-  padding-right:55px ;
-  /*width: 100%;*/
+  margin-top: 10px;
+  padding-top: 30px; /*Устанавливает значение поля от верхнего края содержимого элемента*/
+  padding-bottom: 30px;
+  /* padding-left: 340px ; */
+  /* padding-right:339px ; */
+  /* width: 100%; */
 
 }
 
-
-.sixth_text{
+footer p {
 font:Roboto;
-/*padding-top:48px;*/
-  max-width: 1249px;
 text-align:center;
 font-size:18px;
 font-weight:400;
